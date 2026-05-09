@@ -1,6 +1,4 @@
-# 🚀 AI-Driven Enterprise Decision Support System
-
-> **Full Stack Development (FSD) Major Project – Project No. 200**
+**Full Stack Development (FSD) Major Project – Project No. 200**
 
 ---
 
@@ -8,7 +6,7 @@
 
 | Field | Details |
 |-------|---------|
-| **Project Title** | AI-Driven Enterprise Decision Support System |
+| **Project Title** | 200 program fsd
 | **Project Number** | 200 |
 | **Project Level** | Level 3 – Advanced / Industry Grade Project |
 | **Course** | Full Stack Development (FSD) |
